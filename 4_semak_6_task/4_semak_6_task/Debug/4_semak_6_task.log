@@ -1,0 +1,11 @@
+﻿Сборка начата 13.06.2018 12:48:11.
+     1>Проект "C:\Users\asus\documents\visual studio 2013\Projects\4_semak_6_task\4_semak_6_task\4_semak_6_task.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\asus\documents\visual studio 2013\Projects\4_semak_6_task\Debug\4_semak_6_task.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\asus\documents\visual studio 2013\Projects\4_semak_6_task\Debug\4_semak_6_task.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\asus\documents\visual studio 2013\Projects\4_semak_6_task\Debug\4_semak_6_task.lib" /MACHINE:X86 Debug\4_semak_6_task.obj
+         Debug\stdafx.obj
+         4_semak_6_task.vcxproj -> C:\Users\asus\documents\visual studio 2013\Projects\4_semak_6_task\Debug\4_semak_6_task.exe
+     1>Сборка проекта "C:\Users\asus\documents\visual studio 2013\Projects\4_semak_6_task\4_semak_6_task\4_semak_6_task.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.95
